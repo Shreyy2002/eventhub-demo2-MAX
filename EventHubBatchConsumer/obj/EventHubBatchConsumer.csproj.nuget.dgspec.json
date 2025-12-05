@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/twshr/eventhub-demo2/MAX/EventHubBatchConsumer/EventHubBatchConsumer.csproj": {}
+  },
+  "projects": {
+    "/home/twshr/eventhub-demo2/MAX/EventHubBatchConsumer/EventHubBatchConsumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/twshr/eventhub-demo2/MAX/EventHubBatchConsumer/EventHubBatchConsumer.csproj",
+        "projectName": "EventHubBatchConsumer",
+        "projectPath": "/home/twshr/eventhub-demo2/MAX/EventHubBatchConsumer/EventHubBatchConsumer.csproj",
+        "packagesPath": "/home/twshr/.nuget/packages/",
+        "outputPath": "/home/twshr/eventhub-demo2/MAX/EventHubBatchConsumer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/twshr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Messaging.EventHubs": {
+              "target": "Package",
+              "version": "[5.12.2, )"
+            },
+            "Azure.Messaging.EventHubs.Processor": {
+              "target": "Package",
+              "version": "[5.12.2, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.26.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

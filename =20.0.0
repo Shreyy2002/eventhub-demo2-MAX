@@ -1,0 +1,2 @@
+Requirement already satisfied: faker in ./venv/lib/python3.12/site-packages (38.2.0)
+Requirement already satisfied: tzdata in ./venv/lib/python3.12/site-packages (from faker) (2025.2)

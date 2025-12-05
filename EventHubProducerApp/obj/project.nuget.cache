@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QQra8dfd5ZZL/Sm2FFyQcq+FL45mw4qjyABckywfac4y6oNY1bB5yZAc9Lymqs/SmIoI7HvFjmm0LboLHSIjw==",
+  "success": true,
+  "projectFilePath": "/home/twshr/eventhub-demo2/MAX/EventHubProducerApp/EventHubProducerApp.csproj",
+  "expectedPackageFiles": [
+    "/home/twshr/.nuget/packages/azure.core/1.47.3/azure.core.1.47.3.nupkg.sha512",
+    "/home/twshr/.nuget/packages/azure.core.amqp/1.3.1/azure.core.amqp.1.3.1.nupkg.sha512",
+    "/home/twshr/.nuget/packages/azure.messaging.eventhubs/5.12.2/azure.messaging.eventhubs.5.12.2.nupkg.sha512",
+    "/home/twshr/.nuget/packages/azure.storage.blobs/12.26.0/azure.storage.blobs.12.26.0.nupkg.sha512",
+    "/home/twshr/.nuget/packages/azure.storage.common/12.25.0/azure.storage.common.12.25.0.nupkg.sha512",
+    "/home/twshr/.nuget/packages/bogus/35.6.5/bogus.35.6.5.nupkg.sha512",
+    "/home/twshr/.nuget/packages/microsoft.azure.amqp/2.7.0/microsoft.azure.amqp.2.7.0.nupkg.sha512",
+    "/home/twshr/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/home/twshr/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/twshr/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.3/microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "/home/twshr/.nuget/packages/polly/8.6.5/polly.8.6.5.nupkg.sha512",
+    "/home/twshr/.nuget/packages/polly.core/8.6.5/polly.core.8.6.5.nupkg.sha512",
+    "/home/twshr/.nuget/packages/system.clientmodel/1.6.1/system.clientmodel.1.6.1.nupkg.sha512",
+    "/home/twshr/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/home/twshr/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/twshr/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512",
+    "/home/twshr/.nuget/packages/system.reflection.typeextensions/4.7.0/system.reflection.typeextensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
