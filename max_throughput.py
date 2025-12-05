@@ -542,8 +542,7 @@ async def main():
     # Your Event Hub credentials
     CONNECTION_STR ="Endpoint=sb://ns-for-testing.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=EwI67+VG8kY7hlhq8qXqSMwT1TEL/ZP15+AEhIWpOpo="
     EVENTHUB_NAME = "triall"
-    #CONNECTION_STR ="Endpoint=sb://maxhealthcare.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=AT1fp+KswauyU3xWkJxTxMRMRnVyzuwf0+AEhJcegBM="
-    #EVENTHUB_NAME = "topicadttohis_qa1"
+    #CONNECTION_STR =
     
     # ⚡ TEST MODES - CHOOSE ONE:
     TEST_MODE = "max_throughput"  # Options: "precise", "max_throughput", "discover_max"
